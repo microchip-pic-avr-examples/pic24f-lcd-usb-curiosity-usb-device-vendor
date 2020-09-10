@@ -19,10 +19,8 @@ please contact mla_licensing@microchip.com
 
 /** INCLUDES *******************************************************/
 #include "system.h"
-
 #include "app_device_vendor_basic.h"
 #include "app_led_usb_status.h"
-
 #include "usb.h"
 #include "usb_device.h"
 #include "usb_device_generic.h"
