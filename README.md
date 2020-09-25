@@ -4,7 +4,7 @@
 
 ## Summary
 
-This is the demo software which runs on PIC24F LCD USB Curiosity Development Board (DM240017). The PIC24F LCD USB Curiosity Development Board is a cost-effective, fully integrated development platform targeted at first-time users, Makers, and those seeking a feature-rich rapid prototyping board. Refer to https://www.microchip.com/pic24flcdcuriosity for additional details about the board.
+This is the demo software which runs on PIC24F LCD USB Curiosity Development Board (DM240018). The PIC24F LCD USB Curiosity Development Board is a cost-effective, fully integrated development platform targeted at first-time users, Makers, and those seeking a feature-rich rapid prototyping board. Refer to https://www.microchip.com/pic24flcdusbcuriosity for additional details about the board.
 
 
 ## Related Documentation
@@ -15,7 +15,7 @@ This is the demo software which runs on PIC24F LCD USB Curiosity Development Boa
 
 ## Hardware Used 
 
-- PIC24F LCD USB Curiosity Development Board (https://www.microchip.com/DM240017) 
+- PIC24F LCD USB Curiosity Development Board (https://www.microchip.com/pic24flcdusbcuriosity) 
 
 ## Software Used 
 
@@ -39,4 +39,4 @@ On Linux and MacOS systems, no signed driver is required.  LibUSB should be avai
 Once connected, open one of the example PC utilities in the utilities folder.  Use the UI elements to read the 
 button status and control the LED.  
 
-![image](images/PIC24FLCDCuriosity.jpg)
+![image](images/pic24f_lcdusbcuriosity.jpg)
