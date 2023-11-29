@@ -39,4 +39,8 @@ On Linux and MacOS systems, no signed driver is required.  LibUSB should be avai
 Once connected, open one of the example PC utilities in the utilities folder.  Use the UI elements to read the 
 button status and control the LED.  
 
+![image](images/usb_demo1.jpg)
+
+![image](images/usb_demo2.jpg)
+
 ![image](images/pic24f_lcdusbcuriosity.jpg)
