@@ -1,3 +1,12 @@
+# pic24f-lcd-usb-curiosity-usb-device-vendor v1.0.1
+### Release Highlights
+
+Example was made compatible with the latest compiler version.
+
+### Features Added\Updated
+
+None.
+
 # pic24f-lcd-usb-curiosity-usb-device-vendor v1.0.0
 ### Release Highlights
 
